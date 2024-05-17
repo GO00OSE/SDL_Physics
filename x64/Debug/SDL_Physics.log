@@ -1,0 +1,30 @@
+﻿  Main.cpp
+C:\Users\Natha\source\repos\SDL_Physics\Particle.h(47,21): warning C4244: 'initializing': conversion from 'double' to 'Uint8', possible loss of data
+C:\Users\Natha\source\repos\SDL_Physics\Particle.h(52,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Natha\source\repos\SDL_Physics\Particle.h(53,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Natha\source\repos\SDL_Physics\Particle.h(55,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Natha\source\repos\SDL_Physics\Particle.h(55,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Natha\source\repos\SDL_Physics\ParticleManager.cpp(29,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Natha\source\repos\SDL_Physics\ParticleManager.cpp(38,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Natha\source\repos\SDL_Physics\ParticleManager.cpp(39,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Natha\source\repos\SDL_Physics\Main.cpp(30,19): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\Natha\source\repos\SDL_Physics\Main.cpp(44,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Natha\source\repos\SDL_Physics\Main.cpp(44,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Natha\source\repos\SDL_Physics\Main.cpp(53,26): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+  Particle.h
+C:\Users\Natha\source\repos\SDL_Physics\Particle.h(47,21): warning C4244: 'initializing': conversion from 'double' to 'Uint8', possible loss of data
+C:\Users\Natha\source\repos\SDL_Physics\Particle.h(52,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Natha\source\repos\SDL_Physics\Particle.h(53,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Natha\source\repos\SDL_Physics\Particle.h(55,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Natha\source\repos\SDL_Physics\Particle.h(55,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  ParticleManager.cpp
+C:\Users\Natha\source\repos\SDL_Physics\Particle.h(47,21): warning C4244: 'initializing': conversion from 'double' to 'Uint8', possible loss of data
+C:\Users\Natha\source\repos\SDL_Physics\Particle.h(52,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Natha\source\repos\SDL_Physics\Particle.h(53,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Natha\source\repos\SDL_Physics\Particle.h(55,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Natha\source\repos\SDL_Physics\Particle.h(55,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Natha\source\repos\SDL_Physics\ParticleManager.cpp(29,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Natha\source\repos\SDL_Physics\ParticleManager.cpp(38,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Natha\source\repos\SDL_Physics\ParticleManager.cpp(39,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  SDL_Physics.vcxproj -> C:\Users\Natha\source\repos\SDL_Physics\x64\Debug\SDL_Physics.exe
